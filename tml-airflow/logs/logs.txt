@@ -9990,3 +9990,4 @@ origin	https://<personal access token hidden>@github.com/aanthonylin/raspberrypi
 [INFO 2024-11-01_19:27:17] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-msp-2ed5.py
 [INFO 2024-11-01_19:27:20] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-msp-2ed5.py
 [INFO 2024-11-01_19:27:24] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-msp-2ed5.py
+[INFO 2024-11-01_19:27:38] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-msp-2ed5.py
