@@ -9989,3 +9989,4 @@ origin	https://<personal access token hidden>@github.com/aanthonylin/raspberrypi
 [INFO 2024-11-01_19:27:12] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-msp-2ed5.py
 [INFO 2024-11-01_19:27:17] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-msp-2ed5.py
 [INFO 2024-11-01_19:27:20] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-msp-2ed5.py
+[INFO 2024-11-01_19:27:24] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-msp-2ed5.py
