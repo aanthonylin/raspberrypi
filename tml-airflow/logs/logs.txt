@@ -9994,3 +9994,4 @@ origin	https://<personal access token hidden>@github.com/aanthonylin/raspberrypi
 [INFO 2024-11-01_19:27:42] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-msp-2ed5.py
 [INFO 2024-11-01_19:27:44] Visualization DAG in tml_system_step_7_kafka_visualization_dag-msp-2ed5.py
 [INFO 2024-11-01_19:27:54] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-msp-2ed5.py
+[INFO 2024-11-01_19:28:08] {'name': ['Project with slug "msp-2ed5" already exists.']}
