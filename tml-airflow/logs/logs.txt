@@ -9975,3 +9975,4 @@ branch.main.merge=refs/heads/main
 origin	https://<personal access token hidden>@github.com/aanthonylin/raspberrypi.git (push)
 [INFO 2024-11-01_19:12:07] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-msp-2ed5.py
 [INFO 2024-11-01_19:12:10] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-msp-2ed5.py
+[INFO 2024-11-01_19:12:13] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-msp-2ed5.py
