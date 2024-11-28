@@ -12221,3 +12221,16 @@ origin	https://<personal access token hidden>@github.com/aanthonylin/raspberrypi
 [INFO 2024-11-28_19:36:08] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecuritywithprivategpt-2ed5.py
 [INFO 2024-11-28_19:36:13] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-cybersecuritywithprivategpt-2ed5.py
 [INFO 2024-11-28_19:37:04] {'name': ['Project with slug "cybersecuritywithprivategpt-2ed5" already exists.']}
+[INFO 2024-11-28_20:28:06] TML Solution Studio Started: DOCKERUSERNAME=aanthonylin, GITUSERNAME=aanthonylin, GITREPOURL=https://github.com/aanthonylin/raspberrypi.git, AIRFLOWPORT=9000
+[INFO 2024-11-28_20:28:06] TML Solution Studio: Docker Login Status: Error response from daemon: Get "https://registry-1.docker.io/v2/": unauthorized: incorrect username or password
+[INFO 2024-11-28_20:28:06] TML Solution Studio: Github Config Status: core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/aanthonylin/raspberrypi.git
+remote.origin.fetch=+refs/heads/main:refs/remotes/origin/main
+remote.origin.pushurl=https://<personal access token hidden>@github.com/aanthonylin/raspberrypi.git
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+[INFO 2024-11-28_20:28:06] TML Solution Studio: Github Remote Status: origin	https://github.com/aanthonylin/raspberrypi.git (fetch)
+origin	https://<personal access token hidden>@github.com/aanthonylin/raspberrypi.git (push)
