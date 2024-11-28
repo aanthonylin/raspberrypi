@@ -13,10 +13,10 @@ sys.dont_write_bytecode = True
 
 ######################################## USER CHOOSEN PARAMETERS ########################################
 default_args = {
- 'owner' : 'Sebastian Maurice', # <<< ********** You change as needed
- 'companyname': 'Otics',  # <<< ********** You change as needed
-  'myname' : 'Sebastian',  # <<< ********** You change as needed
-  'myemail' : 'Sebastian.Maurice',  # <<< ********** You change as needed
+ 'owner' : 'Anthony Lin', # <<< ********** You change as needed
+ 'companyname': 'My company',  # <<< ********** You change as needed
+  'myname' : 'Anthony',  # <<< ********** You change as needed
+  'myemail' : 'alin',  # <<< ********** You change as needed
   'mylocation' : 'Toronto',  # <<< ********** You change as needed
   'replication' : '1',  # <<< ********** You change as needed
   'numpartitions': '1',  # <<< ********** You change as needed
