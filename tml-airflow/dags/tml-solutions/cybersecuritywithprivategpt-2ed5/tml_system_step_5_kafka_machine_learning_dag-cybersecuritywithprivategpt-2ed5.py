@@ -15,11 +15,11 @@ import random
 sys.dont_write_bytecode = True
 ######################################## USER CHOOSEN PARAMETERS ########################################
 default_args = {
-  'myname' : 'Sebastian Maurice',   # <<< *** Change as needed      
+  'myname' : 'Anthony Lin',   # <<< *** Change as needed      
   'enabletls': '1',   # <<< *** 1=connection is encrypted, 0=no encryption
   'microserviceid' : '', # <<< *** leave blank
   'producerid' : 'iotsolution',    # <<< *** Change as needed   
-  'preprocess_data_topic' : 'iot-preprocess', # << *** topic/data to use for training datasets - You created this in STEP 2
+  'preprocess_data_topic' : 'cisco-network-preprocess', # << *** topic/data to use for training datasets - You created this in STEP 2
   'ml_data_topic' : 'ml-data', # topic to store the trained algorithms  - You created this in STEP 2
   'identifier' : 'TML solution',    # <<< *** Change as needed   
   'companyname' : 'Your company', # <<< *** Change as needed      
