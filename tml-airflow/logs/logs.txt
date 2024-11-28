@@ -12183,3 +12183,4 @@ origin	https://<personal access token hidden>@github.com/aanthonylin/raspberrypi
 [INFO 2024-11-28_00:19:36] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-cybersecuritywithprivategpt-2ed5.py
 [INFO 2024-11-28_00:19:38] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-cybersecuritywithprivategpt-2ed5.py
 [INFO 2024-11-28_00:19:40] Visualization DAG in tml_system_step_7_kafka_visualization_dag-cybersecuritywithprivategpt-2ed5.py
+[INFO 2024-11-28_00:19:49] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecuritywithprivategpt-2ed5.py
