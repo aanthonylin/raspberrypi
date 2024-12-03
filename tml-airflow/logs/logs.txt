@@ -12345,3 +12345,4 @@ origin	https://<personal access token hidden>@github.com/aanthonylin/raspberrypi
 [INFO 2024-12-03_14:09:28] Visualization DAG in tml_system_step_7_kafka_visualization_dag-cybersecuritywithprivategpt-2ed5.py
 [INFO 2024-12-03_14:09:40] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecuritywithprivategpt-2ed5.py
 [INFO 2024-12-03_14:09:47] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-cybersecuritywithprivategpt-2ed5.py
+[INFO 2024-12-03_14:17:51] {'name': ['Project with slug "cybersecuritywithprivategpt-2ed5" already exists.']}
