@@ -72,7 +72,7 @@ def genkubeyaml(sname,containername,clientport,solutionairflowport,solutionviper
          spec:
            containers:
            - name: {}
-             image: {}
+             image: {}:latest
              volumeMounts:
              - name: dockerpath
                mountPath: /var/run/docker.sock
@@ -120,18 +120,13 @@ def genkubeyaml(sname,containername,clientport,solutionairflowport,solutionviper
              - name: READTHEDOCS
                value: '<ENTER READTHEDOCS TOKEN>'
              - name: qip 
-               value: 'localhost' # This is private GPT IP              
+               value: 'privategpt-service' # This is private GPT service in kubernetes
              - name: KUBE
                value: '1'
            volumes: 
            - name: dockerpath
              hostPath:
                path: /var/run/docker.sock
-           dnsPolicy: "None"
-           dnsConfig:
-             nameservers:
-               - 8.8.8.8                
-               
    ---
      apiVersion: v1
      kind: Service
