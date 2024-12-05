@@ -12568,3 +12568,4 @@ origin	https://<personal access token hidden>@github.com/aanthonylin/raspberrypi
 [INFO 2024-12-05_16:49:26] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-2ed5.py
 [INFO 2024-12-05_16:49:29] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-2ed5.py
 [INFO 2024-12-05_16:49:32] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-2ed5.py
+[INFO 2024-12-05_16:49:35] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-2ed5.py
